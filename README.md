@@ -5,3 +5,5 @@ Eigenfaces is the name given to a set of eigenvectors when they are used in the 
 The motivation of Eigenfaces is twofold:
 1) Extract the relevant facial information, which may or may not be directly related to human intuition of face features such as the eyes, nose, and lips. One way to do so is to capture the statistical variation between face images.
 2) Represent face images efficiently. To reduce the computation and space complexity, each face image can be represented using a small number of parameters.
+
+This project focuses on deconstructing (dimensionality reduction using PCA) and reconstructing images from eigenfaces. 
